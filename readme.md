@@ -1,3 +1,4 @@
-# hello, i am kushal and i like to play first please
+# banjour, ola kushal
 
 - i like to work
+- i also like to code.
